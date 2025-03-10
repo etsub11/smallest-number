@@ -19,6 +19,7 @@ int main() {
 
     int smallest = findSmallest(arr, size);
     cout << "The smallest number in the array is: " << smallest << endl;
+    cout << "There is some update";
 
     return 0;
 }
